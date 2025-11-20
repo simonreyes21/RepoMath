@@ -6,6 +6,7 @@
         return Fibonacci(n - 1) + Fibonacci(n - 2);
     }
 
+// Obtiene maximo comun divisor de los dos numeros de manera recursiva siendo a > b
     public static int MaximoComunDivisor(int a, int b)
     {
         if (b == 0) return a;

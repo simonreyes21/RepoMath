@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alumno\\OneDrive - Conselleria d'Educació\\ED\\Proyectos\\MiProyectoGit_SPRM\\LibreriaMath\\LibreriaMath.csproj",
+      "projectUniqueName": "C:\\Users\\alumno\\OneDrive - Conselleria d'Educació\\ED\\Proyectos\\MiProyectoGit_SPRM A305\\LibreriaMath\\LibreriaMath.csproj",
       "projectName": "LibreriaMath",
-      "projectPath": "C:\\Users\\alumno\\OneDrive - Conselleria d'Educació\\ED\\Proyectos\\MiProyectoGit_SPRM\\LibreriaMath\\LibreriaMath.csproj",
+      "projectPath": "C:\\Users\\alumno\\OneDrive - Conselleria d'Educació\\ED\\Proyectos\\MiProyectoGit_SPRM A305\\LibreriaMath\\LibreriaMath.csproj",
       "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alumno\\OneDrive - Conselleria d'Educació\\ED\\Proyectos\\MiProyectoGit_SPRM\\LibreriaMath\\obj\\",
+      "outputPath": "C:\\Users\\alumno\\OneDrive - Conselleria d'Educació\\ED\\Proyectos\\MiProyectoGit_SPRM A305\\LibreriaMath\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config"
